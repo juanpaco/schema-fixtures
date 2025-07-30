@@ -301,7 +301,7 @@ When the list of attribute names is not provided, it defaults to the list of all
 **Parameters**
 
 | Name | Description | Type |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | schema | The schema object whose attributes will be tested for assignment | Schema |
 | attribute_names | Optional list of attribute names to check for assignment | Array of Symbol |
 
